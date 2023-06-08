@@ -30,15 +30,6 @@ body {
 
 }
 
-header {
-    width: 95%;
-    max-width: 788px;
-    display: flex;
-    justify-content: flex-end;
-    padding: 12px;
-    margin-top: 15px;
-}
-
 .share-button {
     width: 40px;
     height: 40px;
